@@ -1,18 +1,11 @@
 Productos
 
-http://localhost:1802/api/productos/producto/:id
-http://localhost:1802/api/productos/prodcuto/addFav
-http://localhost:1802/api/productos/productosAll/
-http://localhost:1802/api/productos/productosFil/:min/:max
-http://localhost:1802/api/productos/productosFi/:palabras
-http://localhost:1802/api/productos/productoPag/:pag
-http://localhost:1802/api/productos/imagen/:id
-http://localhost:1802/api/productos/precios/
-http://localhost:1802/api/productos/cantidades/
+https://tiendamovil.up.railway.app/api/productos/producto/:id
+https://tiendamovil.up.railway.app/api/productos/prodcuto/addFav
+https://tiendamovil.up.railway.app/api/productos/productosAll/
+https://tiendamovil.up.railway.app/api/productos/imagen/:id
+
 
 
 
 Usuario
-http://localhost:1802/api/usuarios/carrito/:id
-http://localhost:1802/api/usuarios/carritoProd/:id
-http://localhost:1802/api/usuarios/favoritos/:id
